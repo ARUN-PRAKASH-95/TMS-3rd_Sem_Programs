@@ -1,0 +1,6 @@
+repo: 71ea4ea8e8197dce4aee0433b092ff9f8663b85d
+node: 632fbeaea97ad393a87e7788065ea92f753d4b33
+branch: default
+latesttag: MODEL.1.1.beta1
+latesttagdistance: 322
+changessincelatesttag: 356
